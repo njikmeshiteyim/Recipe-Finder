@@ -1,0 +1,11 @@
+
+.rapper{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 3px 10px 0 #aaa;
+}
+.imgs{
+    height: 300px;
+    width: 350px;
+}
